@@ -1,0 +1,29 @@
+Changing to directory...
+Our list of nodes: 
+
+hpc04.williams.edu
+hpc04.williams.edu
+hpc04.williams.edu
+hpc04.williams.edu
+
+Loading module mpi/mpich-x86_64...Loading module R/3.4.2...Done!
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+            Spline    Stineman         Ma       Random
+temp      864.1014   315.90134   522.1582     276424.2
+humid   28605.9849 14490.94278 22771.6695    2193456.2
+ws       1106.0918   736.36157   764.6518     116088.0
+pres   307738.5247    81.15009 53320.2128 4314253074.8
+precip   2124.7924  1541.40305  1396.9748     933597.2
+Finished program at: Sat Feb  9 13:43:52 EST 2019
+
